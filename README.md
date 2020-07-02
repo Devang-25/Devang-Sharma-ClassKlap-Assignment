@@ -4,7 +4,7 @@ Made By: DEVANG SHARMA<br>
 Email: devangarma25398@gmail.com
 
 
-#Problem Statement (Parking Lot)
+# Problem Statement (Parking Lot)
 
 I own a multi­storey parking lot that can hold up to 'n' cars at any given point in time. Each slot is given a number starting at 1 increasing with increasing distance from the entry point in steps of one. I want to create an automated ticketing system that allows my customers to use my parking lot without human intervention. 
 
@@ -22,9 +22,9 @@ We interact with the system via a simple set of commands which produce a specifi
 2) It should accept a filename as a parameter at the command prompt and read the commands from that file
 
 
-#Output Format
+# Output Format
 
-###Example: File Input
+### Example: File Input
 
 To run the program:
 
@@ -108,7 +108,7 @@ KA-01-HH-1234, KA-01-HH-9999, KA-01-P-333
 Not found
 ```
 
-###Example: Interactive
+### Example: Interactive
 
 To run the program and launch the shell:
 
@@ -309,13 +309,13 @@ Not found
 ```
 
 
-#Project Requirements
+# Project Requirements
 
 1. Latest version of JDK.
 2. Latest version of maven.
 
 
-#Build Instructions
+# Build Instructions
 
 Run the following command -
 ```sh
@@ -323,3 +323,4 @@ mvn clean install
 ```
 
 
+# ALL COPYRIGHTS RESERVED By- DEVANG SHARMA
